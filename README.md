@@ -1,0 +1,1 @@
+# Friedkin-Johnsen-model-simulator
