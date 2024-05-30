@@ -8,7 +8,7 @@ A module capable of simulating the spreading of an opinon in a given network usi
 * [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Example of use](#Exampleofuse)
+* [Example](#Example)
 
 
 ## Requirements
@@ -40,7 +40,7 @@ model.simulate(initial)
 This code altogether returns the opinions that the system converges to or -1 if they don't converge.
 
 
-## Example of use
+## Example
 
 
 ```sh
