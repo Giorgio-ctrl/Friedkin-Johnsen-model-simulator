@@ -23,6 +23,12 @@ Clone the repository:
 git clone https://github.com/Giorgio-ctrl/Friedkin-Johnsen-model-simulator.git
 ```
 
+or install via pip:
+
+```sh
+python -m pip install FJsim
+```
+
 ## Usage
 
 ```sh
